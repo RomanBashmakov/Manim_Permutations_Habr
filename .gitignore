@@ -1,0 +1,6 @@
+__pycache__/
+media/
+mfput.log
+ManimTest.code-workspace2.code-workspace
+gitignore
+.DS_Store
